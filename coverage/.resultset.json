@@ -137,7 +137,7 @@
         1,
         null,
         1,
-        3,
+        4,
         null,
         null,
         null
@@ -189,6 +189,26 @@
       "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/chore.rb": [
         1,
         1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
         null,
         null
       ],
@@ -259,6 +279,12 @@
         null
       ],
       "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/task.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         1,
         1,
         null,
@@ -333,6 +359,6 @@
         null
       ]
     },
-    "timestamp": 1390354037
+    "timestamp": 1390358668
   }
 }
