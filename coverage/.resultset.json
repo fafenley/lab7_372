@@ -1,37 +1,37 @@
 {
   "Unit Tests": {
     "coverage": {
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/application_controller.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/application_controller.rb": [
         1,
         1,
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/application_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/children_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/children_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/chores_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/chores_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/sessions_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/sessions_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/tasks_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/tasks_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/helpers/users_helper.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/helpers/users_helper.rb": [
         1,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/lib/controller_authentication.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/lib/controller_authentication.rb": [
         null,
         null,
         null,
@@ -77,55 +77,55 @@
         1,
         null,
         1,
-        0,
-        null,
-        null
-      ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/children_controller.rb": [
-        1,
-        1,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null,
-        1,
-        0,
         0,
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/child.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/children_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null
+      ],
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/models/child.rb": [
         1,
         1,
         1,
@@ -142,7 +142,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/chores_controller.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/chores_controller.rb": [
         1,
         1,
         null,
@@ -186,7 +186,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/chore.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/models/chore.rb": [
         1,
         1,
         1,
@@ -212,7 +212,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/sessions_controller.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/sessions_controller.rb": [
         1,
         1,
         null,
@@ -234,7 +234,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/tasks_controller.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/tasks_controller.rb": [
         1,
         1,
         null,
@@ -278,7 +278,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/task.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/models/task.rb": [
         1,
         1,
         1,
@@ -290,7 +290,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/controllers/users_controller.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/controllers/users_controller.rb": [
         1,
         1,
         null,
@@ -322,7 +322,7 @@
         null,
         null
       ],
-      "C:/Users/user/Desktop/ChoreTracker_starter_S13-master/app/models/user.rb": [
+      "c:/Users/user/ffenley_373/ChoreTracker_starter_S13-master/app/models/user.rb": [
         1,
         null,
         1,
@@ -359,6 +359,6 @@
         null
       ]
     },
-    "timestamp": 1390358668
+    "timestamp": 1390362868
   }
 }
